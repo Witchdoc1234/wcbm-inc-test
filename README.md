@@ -1,2 +1,3 @@
 # wcbm-inc-test
 WCBM / Apex Servicing App
+Developing a service app for WCBM. Keeping track of faucets cleaned, when they were cleaned, system details, and other important information. Like how sexy you look today ;) Just kidding, we don't really include that in this app...
